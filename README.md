@@ -49,14 +49,13 @@ This project explores the application of **genetic algorithms (GA)** to evolve r
 - **Complex Environments**:
   - Expand simulations to include more diverse and dynamic scenarios.
 
-## 🛠️ Tools and Technologies 
-- **PyBullet**: Real-time physics simulation engine.
-- **Python**: Core programming language for implementing genetic algorithms and simulations.
-- **URDF**: Unified Robot Description Format for robot modeling.
-
 ## 🚀 How to Run 
 1. Clone the repository and navigate to the project directory.
 2. Run the simulation script:
    ```bash
    python simulation.py
    ```
+## 🛠️ Tools and Technologies 
+- **PyBullet**: Real-time physics simulation engine.
+- **Python**: Core programming language for implementing genetic algorithms and simulations.
+- **URDF**: Unified Robot Description Format for robot modeling.
